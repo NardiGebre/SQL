@@ -1,4 +1,4 @@
--- Subqueries and Nested Queries - Exercise
+-- Subqueries and Nested Queries - Exercise Page 83 & 84
 
 -- Exercise 1: 
 -- Consider a database schema with the following tables:
